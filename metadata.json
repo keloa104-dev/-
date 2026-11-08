@@ -1,0 +1,6 @@
+{
+  "name": "Smart Puck",
+  "description": "A floating puck utility app for Android providing fast gesture controls for brightness, volume, DND, and quick toggle presets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

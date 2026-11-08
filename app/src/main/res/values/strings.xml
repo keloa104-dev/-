@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Smart Puck</string>
+    <string name="service_running">Floating Puck Service Running</string>
+    <string name="service_description">Touch or drag floating puck to adjust settings</string>
+</resources>

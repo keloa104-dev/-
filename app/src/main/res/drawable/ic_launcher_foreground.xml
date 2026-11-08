@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Central Puck Glass Orb in Android 17 Warm Brown -->
+    <path
+        android:fillColor="#795548"
+        android:pathData="M54,26 A28,28 0 1,1 53.99,26 Z" />
+
+    <!-- Subtle Inner Accent Ring -->
+    <path
+        android:fillColor="#8D6E63"
+        android:pathData="M54,34 A20,20 0 1,1 53.99,34 Z" />
+
+    <!-- Pure Inner Glass Highlight Core -->
+    <path
+        android:fillColor="#D7CCC8"
+        android:pathData="M54,44 A10,10 0 1,1 53.99,44 Z" />
+</vector>
+
+
